@@ -1,4 +1,4 @@
-# 📝 MentorBabaa Internship Assignment: Smart Resume Screener (AI for HR)
+# 📝 MentorBabaa Internship Assignment: Smart Resume Screener
 
 ## Objective  
 As a MentorBaba intern, your goal is to build a **machine learning model** that predicts whether a resume matches a job description. This exercise will give you hands-on experience with **text processing, embeddings, and classification**, while introducing practical HR-AI applications.
